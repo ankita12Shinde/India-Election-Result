@@ -6,5 +6,5 @@ Utilized SQL to extract, clean, and transform Indian election results. Implement
 ## Dataset used
 - <a href=https://github.com/ankita12Shinde/India-Election-Result/blob/main/constituencywise_details.csv</a>
 - <a href=https://github.com/ankita12Shinde/India-Election-Result/blob/main/constituencywise_results.csv</a>
--<a href = https://github.com/ankita12Shinde/India-Election-Result/blob/main/states.csv</a>
--<a href = https://github.com/ankita12Shinde/India-Election-Result/blob/main/statewise_results.csv</a>
+- <a href = https://github.com/ankita12Shinde/India-Election-Result/blob/main/states.csv</a>
+- <a href = https://github.com/ankita12Shinde/India-Election-Result/blob/main/statewise_results.csv</a>
